@@ -4,6 +4,11 @@
       "token": "8802867480:AAENiOJOPCEKYPzx2lYWg-jcNRMZmXoqOyc",
       "active": true,
       "hash": "hasil_sha256_dari_token"
+    },
+    {
+      "token": "8802867480:AAHj1ePPzFvOaAh6Hsusa7gQa5t0KuJ8QOs",
+      "active": true,
+      "hash": "f4429dc11d6be18552e16f839180eb5f6bb43935e330a203a172922a10364321"
     }
   ]
 }
