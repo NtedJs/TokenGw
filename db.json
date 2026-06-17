@@ -1,0 +1,14 @@
+{
+  "tokens": [
+    {
+      "token": "123456:ABCDEF",
+      "active": true,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb924..." 
+    },
+    {
+      "token": "987654:ZYXWVU",
+      "active": false,
+      "hash": "d4735e3a265e16eee03f59718b9b5d03..."
+    }
+  ]
+}
